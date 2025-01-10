@@ -54,4 +54,3 @@ o	Citation prediction: python scripts/random_forest_citation_prediction.py
 •	Machine Learning: Scikit-learn.
 •	Visualization: NetworkX, Matplotlib.
 
-![image](https://github.com/user-attachments/assets/5dcc95d1-dcb7-4f2e-89d0-d73f1892ee7f)
