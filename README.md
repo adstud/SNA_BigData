@@ -41,9 +41,9 @@ o	Data extraction: python scripts/extract_and_load_to_bigquery.py
 o	Citation network construction and visualization: python scripts/build_and_visualize_citation_network.py
 o	Citation prediction: python scripts/random_forest_citation_prediction.py
 
-## Technologies Used
-•	Languages: Python, SQL.
-•	Big Data: Google BigQuery, Apache Hive.
-•	Machine Learning: Scikit-learn.
-•	Visualization: NetworkX, Matplotlib.
 
+## Technologies Used
+- **Languages**: Python, SQL
+- **Big Data**: Google BigQuery, Apache Hive
+- **Machine Learning**: Scikit-learn
+- **Visualization**: NetworkX, Matplotlib
