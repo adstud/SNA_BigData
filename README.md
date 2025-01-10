@@ -31,11 +31,12 @@ The primary goals of the project are:
   - `feature_importances.csv`: Feature importance for the Random Forest model.
 
 ## How to Run the Project
-1.	Set up the virtual environment:
-conda create --name openalex-env python=3.9
-conda activate openalex-env
-pip install -r requirements.txt
-2.	Run the scripts:
+1. **Set up the virtual environment**:
+   conda create --name openalex-env python=3.9
+   conda activate openalex-env
+   pip install -r requirements.txt
+
+3.	Run the scripts:
 o	Data extraction: python scripts/extract_and_load_to_bigquery.py
 o	Citation network construction and visualization: python scripts/build_and_visualize_citation_network.py
 o	Citation prediction: python scripts/random_forest_citation_prediction.py
